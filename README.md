@@ -2,7 +2,7 @@
 This is the code for the paper PPP2R1A mutations portend improved survival after cancer immunotherapy.
 
 
-The scripts cover codes used for clinical and translational data analysis. We also provided the input data for each analysis in the corresponding figure folders. The analysis was run in R/4.3.1, with the following required packages:
+The scripts cover codes used for clinical and translational data analysis. We also provided the input data for each analysis in the corresponding figure folders. The analysis was run in R (v4.3.1), with the following required packages:
 dplyr (v1.1.4)
 tidyverse (v2.0.0)
 ggplot2 (v3.5.1)
