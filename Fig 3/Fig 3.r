@@ -8,7 +8,7 @@ library(tidyverse)
 
 
 ### read in CODEX cell density data ###
-CODEX_cell_density <- read.csv("./CODEX_cell_density.csv", check.names=F) # cell density of certian cell phenotypes were provided in source data
+CODEX_cell_density <- read.csv("./CODEX_cell_density.csv", check.names=F) # cell densityies of certian cell phenotypes were provided in source data
 
 ### read in patient metadata ###
 patient_metadata <- read.csv("./patient_metadata.csv")
